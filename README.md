@@ -8,4 +8,4 @@
 	
 - ### [Introduction to Github](https://link-url-here.org)
 
-- ### [Expose.html](https://link-url-here.org)
+- ### [Expose.html](https://awesomesup.github.io/Lab5_Starter/)
